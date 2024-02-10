@@ -10,14 +10,16 @@ I'm Nivesh S, a curious student with a passion for Robotics and Space. Whether i
 - 🌱 Currently learning: Whatever interesting I come across :) Jokes aside, I'm learning ROS, Embedded C and FPGA. 
 - 💼 Pursuing Electronincs and Communcation Engineering at Puducherry Technological University.
 - 🔭 Currently working on: Myself! And programming using Xilinx Vivado and Arty F7 FPGAs
-- 📫 You can reach me at:
-[![Gmail](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niveshsr@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nivesh-s)
 
 ## Skills
 - **Programming Languages:** Python, MATLAB, C, C++
 - **Frameworks & Technologies:** FPGA
 - **Tools:** Xilinx Vivado, Quartus Prime, ModelSim, MATLAB
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nivesh-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shefaoudeen z" height="30" width="40" /></a>
+<a href="https://instagram.com/nivesh_nvsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shefaoudeen" height="30" width="40" /></a>
 
 <!--## Projects
 Here are some notable projects I've worked on:
@@ -28,6 +30,32 @@ Here are some notable projects I've worked on:
 I'm passionate about contributing to the open-source community. Some of my contributions include:
 - [Contribution Name](Link to Contribution): Description of your contribution.
 - [Contribution Name](Link to Contribution): Description of your contribution.-->
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+ <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
+   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
+ </a>
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="premierpro" width="40" height="40"/>
+  </a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=in-explicable&show_icons=true&locale=en&layout=compact" alt="in-explicable" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=in-explicable&show_icons=true&locale=en" alt="in-explicable" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=in-explicable&" alt="in-explicable" /></p>
+
 
 ## Let's Connect
 I'm always open to networking and collaborating on exciting projects. Feel free to reach out!

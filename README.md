@@ -36,7 +36,7 @@ I'm always open to networking and collaborating on exciting projects. Feel free 
 - Twitter: https://twitter.com/nivesh_nvsh
 - Blog: https://niveshsr.wixsite.com/inexplicable
 
-Looking forward with many inquisitive minds! 😊
+Looking forward to connect with many inquisitive minds! 😊
 
 <!---
 in-explicable/in-explicable is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

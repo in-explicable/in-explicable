@@ -7,9 +7,9 @@ I'm Nivesh S, a curious student with a passion for Robotics and Space. Whether i
 ![Profile Views](https://komarev.com/ghpvc/?username=in-explicable&color=brightgreen)
 
 ## About Me
-- 🌱 Currently learning: Whatever interesting I come across :) Jokes aside, I'm learning ROS, Embedded C and FPGA. 
+- 🌱 Currently learning: Whatever interesting I come across! Right now I'm learning ROS, Embedded C and FPGA. 
 - 💼 Pursuing Electronincs and Communcation Engineering at Puducherry Technological University.
-- 🔭 Currently working on: Myself! And programming using Xilinx Vivado and Arty F7 FPGAs
+- 🔭 Currently working on: Myself! And programming using Xilinx Vivado and Xilinx Artix-7 FPGAs
 
 ## Skills
 - **Programming Languages:** Python, MATLAB, C, C++
@@ -48,6 +48,10 @@ I'm passionate about contributing to the open-source community. Some of my contr
   <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="premierpro" width="40" height="40"/>
   </a>
+
+   <img src="https://www.intel.com/content/dam/altera-www/global/en_US/www/images/hero-background/quartus-prime-software-icon.png" alt="Quartus Prime" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Xilinx_logo.svg/1200px-Xilinx_logo.svg.png" alt="Xilinx Vivado" width="40" height="40"/>
+  <img src="https://www.mentor.com/images/products/icons/ic_design_ic_vericon_sml.jpg" alt="ModelSim" width="40" height="40"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=in-explicable&show_icons=true&locale=en&layout=compact" alt="in-explicable" /></p>

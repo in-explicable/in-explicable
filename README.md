@@ -26,12 +26,6 @@ introduce()
 A curious student and a budding engineer beginning on an adventurous quest to learn interesting stuff, piece together the many pieces of the puzzle called life and contribute new ideas to the table. 
 Passionate about electronics and robotics, sharing an unique bond with circuits and simulations.
 
-# What I'm Up To
-- 🤖 Exploring the realms of machine learning and artificial intelligence.
-- 🎮 Crafting circuits and simulations.
-- 🌐 Building projects that could help the society.
-- 📚 Embarking on a quest to explore VLSI with everyone.
-
 ## Skills
 - **Programming Languages:** Python, MATLAB, C, C++, Verilog
 - **Frameworks & Technologies:** FPGA, Raspberry Pi

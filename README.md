@@ -70,7 +70,7 @@ I'm passionate about contributing to the open-source community. Some of my contr
 
 
 # Let's Connect
-📫 Want to collaborate on a project or just chat about the latest tech trends? Feel free to reach out! Let's embark on an epic coding quest together! 🚀
+📫 Want to collaborate on a project or just chat about the latest tech trends? Feel free to reach out! Let's embark on an epic quest together! 🚀
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nivesh-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nivesh-s" height="30" width="40" /></a>

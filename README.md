@@ -1,13 +1,13 @@
 ![Black Technology LinkedIn Banner](https://github.com/user-attachments/assets/f84b69ff-c7b9-4131-9c78-979b7a0e1ae3)
 
 ```python
-def introduce():
-    print("Hello World");
-introduce()
+print("Hello World");
 ```
  
 ## About me
-A curious student and a budding engineer beginning on an adventurous quest to learn interesting stuff, piece together the many pieces of the puzzle called life and contribute new ideas to the table. I have a keen interest in FPGA and VLSI design and passionate about research and innovation.
+A curious student and a budding engineer beginning on an adventurous quest to learn interesting stuff, piece together the many pieces of the puzzle called life and contribute new ideas to the table. 
+
+Currently learning, exploring and working on VLSI design.
 
 ## Skills
 - **Programming:** Verilog HDL, Python, C, C++, MATLAB, Assembly Language

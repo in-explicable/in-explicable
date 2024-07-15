@@ -1,48 +1,19 @@
-### 🚀 May thy knife chip and shatter! 🌌
+![Black Technology LinkedIn Banner](https://github.com/user-attachments/assets/f84b69ff-c7b9-4131-9c78-979b7a0e1ae3)
 
 ```python
 def introduce():
-    name = "Nivesh S"
-    profession = "VLSI Enthusiast"
-    hobbies = ["Coding", "Exploring new technologies", "Building cool projects"]
-    interests = ["FPGA", "Machine Learning", "Robotics"]
-
-    print(f"Hello fellow coders! 👋 I'm {name}, your friendly neighborhood {profession}.")
-    print("I'm on a mission to explore the vast universe of electronics and beyond!")
-    print("When I'm not hacking away on my Raspberry Pi, you can find me:")
-    
-    for hobby in hobbies:
-        print(f"🔍 {hobby}")
-        
-    print("I'm particularly passionate about:")
-    
-    for interest in interests:
-        print(f"🚀 {interest}")
-
+    print("Hello World");
 introduce()
 ```
  
-# About Me
-A curious student and a budding engineer beginning on an adventurous quest to learn interesting stuff, piece together the many pieces of the puzzle called life and contribute new ideas to the table. 
-Passionate about electronics and robotics, sharing an unique bond with circuits and simulations.
+## About me
+A curious student and a budding engineer beginning on an adventurous quest to learn interesting stuff, piece together the many pieces of the puzzle called life and contribute new ideas to the table. I have a keen interest in FPGA and VLSI design and passionate about research and innovation.
 
 ## Skills
-- **Programming Languages:** Python, MATLAB, C, C++, Verilog
-- **Frameworks & Technologies:** FPGA, Raspberry Pi
-- **Tools:** Xilinx Vivado, Quartus Prime, ModelSim, MATLAB
+- **Programming:** Verilog HDL, Python, C, C++, MATLAB, Assembly Language
+- **Tools:** Xilinx Vivado, Xilinx ISE Design Suite, ISim Simulator, Intel Quartus Prime, ModelSim, Cadence Virtuoso
+- **FPGA and development boards:** Xilinx Zynq-7000, Xilinx Artix-7, Raspberry Pi, Arduino, ESP32
 
-
-<!--## Projects
-Here are some notable projects I've worked on:
-- [Project Name](Link to Project): Brief description.
-- [Project Name](Link to Project): Brief description.
-
-## Contribution
-I'm passionate about contributing to the open-source community. Some of my contributions include:
-- [Contribution Name](Link to Contribution): Description of your contribution.
-- [Contribution Name](Link to Contribution): Description of your contribution.-->
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -69,10 +40,14 @@ I'm passionate about contributing to the open-source community. Some of my contr
 </p>
 
 
-# Let's Connect
-📫 Want to collaborate on a project or just chat about the latest tech trends? Feel free to reach out! Let's embark on an epic quest together! 🚀
-<h3 align="left">Connect with me:</h3>
+#
+📫 Feel free to reach out to collaborate on interesting projects! Let's embark on an epic quest together! 🚀
+<h3 align="left">To connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nivesh-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nivesh-s" height="30" width="40" /></a>
 <a href="https://instagram.com/nivesh_nvsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nivesh_nvsh" height="30" width="40" /></a>
+
+![tron-tron-legacy](https://github.com/user-attachments/assets/ad27cc92-d572-412b-8239-57ab86df8d09)
+
+
 

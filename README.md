@@ -1,7 +1,7 @@
 ![Black Technology LinkedIn Banner](https://github.com/user-attachments/assets/f84b69ff-c7b9-4131-9c78-979b7a0e1ae3)
 
 ```python
-print("Hello World");
+print("Hello World")
 ```
  
 ## About me
